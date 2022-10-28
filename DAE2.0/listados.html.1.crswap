@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/listados.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css" />
+    </noscript>
+
+    <!-- Estilos de los botones -->
+    <link rel="stylesheet" href=".">
+    <link rel="stylesheet" href="./estilos/7.css">
+    <link rel="stylesheet" href="./estilos/8.css">
+    <link rel="stylesheet" href="./estilos/9.css">
+    <link rel="stylesheet" href="./estilos/10.css">
+    <link rel="stylesheet" href="./estilos/11.css">
+    <title>Grupos</title>
+</head>
+
+<body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <div class="inner">
+
+                <!-- Logo -->
+                <a href="index.html" class="logo">
+                    <span class="symbol"><img src="images/icons8-aguacate-50.png" alt="" /></span><span
+                        class="title">D.A.E</span>
+                </a>
+
+                <!-- Nav -->
+                <nav>
+                    <ul>
+                        <li><a href="#menu">Menú</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <h2>Menú</h2>
+            <ul>
+
+                <li><a href="iniciarsesion.html">Iniciar Sesión</a></li>
+                <li><a href="registrarse.html">Registrate</a></li>
+                <li><a href="generic.html">Listas</a></li>
+                <li><a href="ayuda.html">Ayuda</a></li>
+                <li><a href="quienessomos.html">¿Quienes Somos?</a></li>
+            </ul>
+        </nav>
+        <div class="contenedor">
+            <h2>Grupos</h2>
+
+
+
+            <div class="contenedor-botones">
+                <a href="./sexto.html" target="_blank"><button class="boton uno">sexto</button></a>
+                <a href="./lista.septimo.html" target="_blank"><button class="boton dos">septimo</button></a>
+                <a href="./listas.octavo.html" target="_blank"><button class="boton tres">octavo</button></a>
+                <a href="./lista.noveno.html" target="_blank"><button class="boton cuatro">noveno</button></a>
+                <a href="./lista.decimo.html" target="_blank"><button class="boton cinco">decimo</button></a>
+                <a href="./lista.once.html" target="_blank"><button class="boton seis">once</button></a>
+
+
+
+            </div>
+        </div>
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <section>
+                    <h2>Siguenos</h2>
+                    <ul class="icons">
+                        <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a>
+                        </li>
+                        <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a>
+                        </li>
+                        <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a>
+                        </li>
+                        <li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+                        <li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+                        <li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+                    </ul>
+                </section>
+            </div>
+        </footer>
+
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+
+</body>
+
+</html>
